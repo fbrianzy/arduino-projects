@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+project = "."
+firmware = "output\\arduino-projects.ino.hex"
